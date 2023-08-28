@@ -60,7 +60,7 @@ module.exports = {
     "jsx-a11y/no-autofocus": 0,
     "jsx-a11y/no-static-element-interactions": 0,
     "react/no-array-index-key": 0,
-    quotes: [2, "single", { avoidEscape: true }],
+    quotes: [2, "double"],
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
